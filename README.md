@@ -8,3 +8,4 @@ Prerequisites:
 - Sqlite3
 
 Hola esto es la practica 2 de la asignatura de DSSS del master de DS
+He cambiado esto para comprobar si funciona el nuevo comando del snyk
